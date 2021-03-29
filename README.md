@@ -8,3 +8,6 @@ text系の特徴をfeature_engineeringディレクトリ配下で作成してい
 scibertは　
 https://github.com/allenai/scibert<br>
 のPyTorch HuggingFace Modelsのscibert-scivocab-uncasedを使いました。
+
+citation-prediction-rotto_category_to_nan_v5.ipynbで学習、<br>
+citation_ensemble_category_to_nan_v2.ipynbでアンサンブルしています。
