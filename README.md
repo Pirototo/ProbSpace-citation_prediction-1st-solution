@@ -17,4 +17,4 @@
 2. 学習<br>
    citation-prediction-rotto_category_to_nan_v5.ipynb　でtext系以外の特徴量を生成、学習を行いました。
 3. アンサンブル<br>
-   citation_ensemble_category_to_nan_v2.ipynb　でアンサンブルしています。
+   citation_ensemble_category_to_nan_v2.ipynb　でアンサンブルし、提出用のcsvを吐き出しています。
