@@ -6,8 +6,8 @@
 ## 流れ
 
 1. 特徴量作成<br>
-   text系の特徴をfeature_engineeringディレクトリ配下で作成しています。 <br>
-   **make-clean-title-abstract.ipynb**　を最初に使用しテキストの前処理をします。
+   text系の特徴をfeature_engineeringディレクトリ配下で作成しています。<br>
+   **make-clean-title-abstract.ipynb**　を最初に使用しテキストの前処理をします。<br>
    それ以降はfeature_engineeringディレクトリ配下の他のnotebookを使用すればtext系の特徴量を作れます。
 
    scibertは　
