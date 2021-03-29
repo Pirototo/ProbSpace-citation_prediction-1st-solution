@@ -15,6 +15,6 @@
    のPyTorch HuggingFace Modelsのscibert-scivocab-uncasedを使いました。
 
 2. 学習<br>
-   citation-prediction-rotto_category_to_nan_v5.ipynbでtext系以外の特徴量を生成、学習、
+   citation-prediction-rotto_category_to_nan_v5.ipynbでtext系以外の特徴量を生成、学習を行いました。
 3. アンサンブル<br>
    citation_ensemble_category_to_nan_v2.ipynbでアンサンブルしています。
