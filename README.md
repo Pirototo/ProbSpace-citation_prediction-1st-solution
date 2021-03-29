@@ -5,7 +5,7 @@
 
 ## 流れ
 
-1. 特徴量作成
+1. 特徴量作成<br>
    text系の特徴をfeature_engineeringディレクトリ配下で作成しています。 <br>
    **make-clean-title-abstract.ipynb**　を最初に使用しテキストの前処理したdataframeをfeather形式で保存しています。
    それ以降はfeature_engineeringディレクトリ配下の他のnotebookを使用すればtext系の特徴量を作れます。
@@ -14,7 +14,7 @@
    https://github.com/allenai/scibert<br>
    のPyTorch HuggingFace Modelsのscibert-scivocab-uncasedを使いました。
 
-2. 学習
-   citation-prediction-rotto_category_to_nan_v5.ipynb
-3. アンサンブル
+2. 学習<br>
+   citation-prediction-rotto_category_to_nan_v5.ipynbでtext系以外の特徴量を生成、学習、
+3. アンサンブル<br>
    citation_ensemble_category_to_nan_v2.ipynbでアンサンブルしています。
