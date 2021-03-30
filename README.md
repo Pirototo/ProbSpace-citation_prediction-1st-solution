@@ -1,5 +1,6 @@
 # ProbSpace-論文の被引用数予測-1st-solution
 解説はprobspaceの以下のトピックに載せてます。
+https://prob.space/competitions/citation_prediction/discussions/hiroto-Post757ba7f2ccfe5b3c5ed1
 
 全てGoogle Colaboratoryで行いました。
 
